@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+span.disclaimer {
+	float: left;
+	margin: 25px;
+	width: 700px;
+	color:#312323 ;
+	background-color:#CBCBCB;
+	padding: 8px;
+	top: -40px;
+	left: -15px;
+	position: relative;
+}
+
+ul {
+	clear: left;
+	padding: 15px;
+	width: 700px;
+	height: 525px;
+	background: url("../Assets/bobo.png") no-repeat center center;
+	BORDER: 2px solid #6C4788;
+	font-size: 18px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color: white;
+	
+}
+
+li {
+	margin: 5px 0 0 15px;
+}
+
